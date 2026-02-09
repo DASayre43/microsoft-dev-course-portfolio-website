@@ -177,7 +177,7 @@ body{
 
     position: relative;
     padding: 20px;
-    background-image: url(Images\ banner\ boxy\ fire\ loop.gif);
+    background-image: linear-gradient(#3600fa, #fa0096);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -193,7 +193,7 @@ body{
 }
 
 .page-banner.turn-page{
-    background-image: url(Images\ banner\ boxy\ flip\ page.gif);
+    background-image: linear-gradient(#fa0096, #3600fa);
 }
 
 .banner-text{
