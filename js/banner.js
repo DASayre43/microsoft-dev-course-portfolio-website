@@ -4,10 +4,10 @@ document.addEventListener("navLoaded", () => {
     function swapBackground() {
         banner.classList.add("turn-page");
 
-        // revert after 1s
+        // revert after 10s
         setTimeout(() => {
           banner.classList.remove("turn-page");
-        }, 1000);
+        }, 10000);
     }
 
     // run every 10s
