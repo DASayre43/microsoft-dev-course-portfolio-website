@@ -177,7 +177,7 @@ body{
 
     position: relative;
     padding: 20px;
-    background-image: url(/Images/website\ banner\ boxy\ fire\ loop.gif);
+    background-image: url(Images/website\ banner\ boxy\ fire\ loop.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -193,7 +193,7 @@ body{
 }
 
 .page-banner.turn-page{
-    background-image: url(/Images/website\ banner\ boxy\ flip\ page.gif);
+    background-image: url(Images/website\ banner\ boxy\ flip\ page.gif);
 }
 
 .banner-text{
